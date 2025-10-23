@@ -1,0 +1,2 @@
+Precisei tirar a atualiacao dos items do main, e coloca-la na classe que deveria estar, classe item, depois fui adicionando as regras de negocio para que funcionassem corretamente
+e depois disso utilizei os testes feitos no inicio para garantir esse funcionamento.
